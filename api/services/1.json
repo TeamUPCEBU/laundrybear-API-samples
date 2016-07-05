@@ -1,0 +1,9 @@
+{
+    "url": "http://localhost:8000/api/services/1/",
+    "name": "Wash and Fold",
+    "description": "we will wash your clothes on a washing machine and fold your clothes",
+    "prices": [
+        "http://localhost:8000/api/shops/1/"
+    ]
+}
+

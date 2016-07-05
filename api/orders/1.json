@@ -1,0 +1,7 @@
+{
+    "url": "http://localhost:8000/api/orders/1/",
+    "pieces": 23,
+    "price": "http://localhost:8000/api/prices/1/",
+    "transaction": "http://localhost:8000/api/transactions/1/"
+}
+

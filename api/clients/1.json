@@ -1,0 +1,11 @@
+{
+        "url": "http://localhost:8000/api/clients/1/",
+        "province": "Cebu",
+        "city": "Cebu City",
+        "barangay": "Lahug",
+        "street": "Gorordo Avenue",
+        "building": "",
+        "contact_number": "09123456789",
+        "client": "http://localhost:8000/api/users/1/"
+}
+

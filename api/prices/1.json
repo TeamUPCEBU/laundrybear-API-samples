@@ -1,0 +1,8 @@
+{
+    "url": "http://localhost:8000/api/prices/1/",
+    "price": "30.00",
+    "duration": 3,
+    "laundry_shop": "http://localhost:8000/api/shops/1/",
+    "service": "http://localhost:8000/api/services/1/"
+}
+

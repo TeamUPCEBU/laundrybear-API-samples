@@ -1,0 +1,16 @@
+{
+    "url": "http://localhost:8000/api/shops/1/",
+    "name": "Kosh Kosh",
+    "province": "Cebu",
+    "city": "Cebu",
+    "barangay": "Lahug",
+    "street": "Gorordo",
+    "building": "n/a",
+    "contact_number": "09422425467",
+    "email": "order@koshkosh.com",
+    "website": "http://koshkosh.com",
+    "hours_open": "7:00 AM - 7:00 PM",
+    "days_open": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",
+    "creation_date": "2016-07-04T16:35:22.573093Z"
+}
+

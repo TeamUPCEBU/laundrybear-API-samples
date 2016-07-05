@@ -1,0 +1,15 @@
+{
+    "url": "http://localhost:8000/api/transactions/1/",
+    "paws": null,
+    "status": 1,
+    "request_date": "2016-07-05T13:09:51.620101Z",
+    "delivery_date": "2016-07-08",
+    "province": "Cebu",
+    "city": "Cebu",
+    "barangay": "Lahug",
+    "street": "Gorordo",
+    "building": "UP Cebu AS Bldg",
+    "price": "200.00",
+    "client": "http://localhost:8000/api/clients/1/"
+}
+
